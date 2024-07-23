@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment1.text=GET\ Method\ Propertie\ id
+comment2.params=nome
+comment2.target=void\ setnome(java.lang.String)
+comment2.text=SET\ Method\ Propertie\ id
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment3.text=GET\ Method\ Propertie\ fullName
+comment4.params=email
+comment4.target=void\ setEmail(java.lang.String)
+comment4.text=SET\ Method\ Propertie\ fullName
+comment5.params=
+comment5.target=java.lang.String\ getSenha()
+comment5.text=GET\ Method\ Propertie\ registration
+comment6.params=senha
+comment6.target=void\ setSenha(java.lang.String)
+comment6.text=SET\ Method\ Propertie\ registration
+numComments=7
